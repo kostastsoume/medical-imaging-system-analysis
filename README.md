@@ -195,6 +195,9 @@ Through this project, I gained practical experience in:
 
 This project was completed as part of the B.Sc. programme in **Computer Science with Biomedical Applications** at the **University of Thessaly**.
 
+## Repository Note
+
+The HTML report (`radiography.html`) is intended to be downloaded and opened locally in any modern web browser for the best viewing experience.
 ---
 
 ## Author
