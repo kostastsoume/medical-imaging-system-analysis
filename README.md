@@ -36,7 +36,7 @@ where:
 
 ### X-ray Phantom Geometry
 
-![X-ray Phantom Setup](Στιγμιότυπο%20οθόνης%202025-01-06%20213231.png)
+![X-ray Phantom Setup](xray_setup.png)
 
 The simulated phantom has dimensions of **256 × 256 × 128 mm** and contains:
 
@@ -87,7 +87,7 @@ MTF = \frac{P_{max}-P_{min}}{P_{max}+P_{min}}
 
 ### MTF Intensity Profile
 
-![MTF and Homogeneity Results](Στιγμιότυπο%20οθόνης%202025-01-20%20032042.png)
+![MTF and Homogeneity Results](mtf_analysis.png)
 
 The calculated value provides a quantitative indication of the imaging system's ability to preserve contrast and represent fine spatial structures.
 
